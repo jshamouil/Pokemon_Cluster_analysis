@@ -9,4 +9,4 @@ Pokemon are creatures in a video game that are used to battle against other Poke
 
 
 ## 3. The Data
-The data set used in this notebook contains the weakness muliplier for about 500 Pokemon for each type of attack it encouners. If the attack is super affective on the Pokemon it will be assigned a 2. If is weak or super weak it will be assigned a .5 or .25. If it is upaffected at all it will be assigned 0. Lastly, if the attack has no special affect it will be assigned a 1.
+The data set used in this notebook was obtained in Kaggle and contains the weakness muliplier for about 500 Pokemon for each type of attack it encouners. If the attack is super affective on the Pokemon it will be assigned a 2. If is weak or super weak it will be assigned a .5 or .25. If it is upaffected at all it will be assigned 0. Lastly, if the attack has no special affect it will be assigned a 1.
